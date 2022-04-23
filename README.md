@@ -9,7 +9,7 @@ Download the OpenPose_for_TensorFlow_BatchSize_1.om file and put it in this fold
 High_Performance_Pose_Estimation/OpenPose/model/
 
 Then being in High_Performance_Pose_Estimation/OpenPose/ folder, run the following command:
-python run.py --input video/1.jpg
+> python run.py --input video/1.jpg
 
 ## Lightweight OpenPose
 Download the OpenPose_light.om file and put it in this folder:
