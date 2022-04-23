@@ -1,0 +1,2016 @@
+{
+    "graph_id": 0,
+    "op": [
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_873",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_873 not supported reason: The reason why this op Where_873 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_873 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_881",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_881 not supported reason: The reason why this op Where_881 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_881 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_889",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_889 not supported reason: The reason why this op Where_889 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_889 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_897",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_897 not supported reason: The reason why this op Where_897 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_897 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_905",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_905 not supported reason: The reason why this op Where_905 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_905 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_994",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_994 not supported reason: The reason why this op Where_994 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_994 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_1002",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_1002 not supported reason: The reason why this op Where_1002 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_1002 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_1010",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_1010 not supported reason: The reason why this op Where_1010 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_1010 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_1018",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_1018 not supported reason: The reason why this op Where_1018 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_1018 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_1026",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_1026 not supported reason: The reason why this op Where_1026 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_1026 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_608",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_608 not supported reason: The reason why this op Where_608 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_608 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_616",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_616 not supported reason: The reason why this op Where_616 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_616 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_624",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_624 not supported reason: The reason why this op Where_624 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_624 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_632",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_632 not supported reason: The reason why this op Where_632 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_632 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_640",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_640 not supported reason: The reason why this op Where_640 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_640 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_729",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_729 not supported reason: The reason why this op Where_729 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_729 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_737",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_737 not supported reason: The reason why this op Where_737 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_737 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_745",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_745 not supported reason: The reason why this op Where_745 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_745 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_753",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_753 not supported reason: The reason why this op Where_753 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_753 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_761",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_761 not supported reason: The reason why this op Where_761 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_761 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_343",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_343 not supported reason: The reason why this op Where_343 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_343 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_351",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_351 not supported reason: The reason why this op Where_351 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_351 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_359",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_359 not supported reason: The reason why this op Where_359 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_359 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_367",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_367 not supported reason: The reason why this op Where_367 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_367 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_375",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_375 not supported reason: The reason why this op Where_375 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_375 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_464",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_464 not supported reason: The reason why this op Where_464 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_464 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_472",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_472 not supported reason: The reason why this op Where_472 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_472 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_480",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_480 not supported reason: The reason why this op Where_480 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_480 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_488",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_488 not supported reason: The reason why this op Where_488 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_488 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_BOOL",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "input2": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Where_496",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "reason": "AIcoreEngine:Op Where_496 not supported reason: The reason why this op Where_496 is not supported by op information library[tbe-custom] is that op type SelectV2 is not found.\nThe reason why this op Where_496 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [then] is not supported. All supported data type and format of tensor input1.then is: \nData Type: {DT_FLOAT16,DT_FLOAT16,DT_FLOAT16,DT_FLOAT,DT_FLOAT,DT_FLOAT,DT_INT32,DT_INT32,DT_INT32,DT_INT8,DT_INT8,DT_INT8,DT_UINT8,DT_UINT8,DT_UINT8}\nFormat:{NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND,NCHW,NHWC,ND};",
+            "type": "SelectV2"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_874",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_874 not supported reason: The reason why this op Expand_874 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_874 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    3,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_882",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_882 not supported reason: The reason why this op Expand_882 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_882 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    13,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_890",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_890 not supported reason: The reason why this op Expand_890 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_890 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    13,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_898",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_898 not supported reason: The reason why this op Expand_898 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_898 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    2
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_906",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_906 not supported reason: The reason why this op Expand_906 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_906 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_995",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_995 not supported reason: The reason why this op Expand_995 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_995 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    3,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_1003",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_1003 not supported reason: The reason why this op Expand_1003 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_1003 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    13,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_1011",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_1011 not supported reason: The reason why this op Expand_1011 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_1011 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    13,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_1019",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_1019 not supported reason: The reason why this op Expand_1019 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_1019 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    2
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_1027",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_1027 not supported reason: The reason why this op Expand_1027 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_1027 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_609",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_609 not supported reason: The reason why this op Expand_609 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_609 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    3,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_617",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_617 not supported reason: The reason why this op Expand_617 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_617 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    26,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_625",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_625 not supported reason: The reason why this op Expand_625 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_625 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    26,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_633",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_633 not supported reason: The reason why this op Expand_633 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_633 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    2
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_641",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_641 not supported reason: The reason why this op Expand_641 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_641 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_730",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_730 not supported reason: The reason why this op Expand_730 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_730 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    3,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_738",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_738 not supported reason: The reason why this op Expand_738 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_738 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    26,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_746",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_746 not supported reason: The reason why this op Expand_746 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_746 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    26,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_754",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_754 not supported reason: The reason why this op Expand_754 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_754 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    2
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_762",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_762 not supported reason: The reason why this op Expand_762 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_762 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_344",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_344 not supported reason: The reason why this op Expand_344 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_344 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    3,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_352",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_352 not supported reason: The reason why this op Expand_352 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_352 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    52,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_360",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_360 not supported reason: The reason why this op Expand_360 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_360 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    52,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_368",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_368 not supported reason: The reason why this op Expand_368 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_368 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    2
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_376",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_376 not supported reason: The reason why this op Expand_376 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_376 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_465",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_465 not supported reason: The reason why this op Expand_465 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_465 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    3,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_473",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_473 not supported reason: The reason why this op Expand_473 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_473 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    52,
+                    1,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_481",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_481 not supported reason: The reason why this op Expand_481 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_481 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    52,
+                    1
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_489",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_489 not supported reason: The reason why this op Expand_489 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_489 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        },
+        {
+            "error_type": "check_support_error",
+            "input0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    2
+                ]
+            },
+            "input1": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    5
+                ]
+            },
+            "name": "Expand_497",
+            "output0": {
+                "data_type": "DT_INT64",
+                "layout": "ND",
+                "shape": [
+                    -1,
+                    -1,
+                    -1,
+                    -1,
+                    -1
+                ]
+            },
+            "reason": "AIcoreEngine:Op Expand_497 not supported reason: The reason why this op Expand_497 is not supported by op information library[tbe-custom] is that op type Expand is not found.\nThe reason why this op Expand_497 is not supported by op information library[tbe-builtin] is that data type DT_INT64 of input [x] is not supported. All supported data type and format of tensor input0.x is: \nData Type: {DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8,DT_FLOAT16,DT_FLOAT,DT_INT32,DT_UINT8,DT_INT8}\nFormat:{ND,ND,ND,ND,ND,ND,ND,ND,ND,ND};",
+            "type": "Expand"
+        }
+    ],
+    "session_id": 0
+}
