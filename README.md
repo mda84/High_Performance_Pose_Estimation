@@ -1,7 +1,7 @@
 # High Performance Pose Estimation
 
-It's the final project of CMPT-733.
-First, you need to download the .om files from [here](https://drive.google.com/drive/folders/1LpXBeGYvEUo0QCnBCH6-RUOvFELhx8c7?usp=sharing).
+It's the final project of CMPT-733. The report is available [here](https://github.com/mda84/High_Performance_Pose_Estimation/blob/main/Final%20Project%20Report%20-%20High%20Performance%20Body%20Pose%20Estimation.pdf).
+For deploying the models, first you need to download the .om files from [here](https://drive.google.com/drive/folders/1LpXBeGYvEUo0QCnBCH6-RUOvFELhx8c7?usp=sharing).
 
 ## OpenPose
 Download the OpenPose_for_TensorFlow_BatchSize_1.om file and put it in this folder:
