@@ -17,14 +17,18 @@ Download the OpenPose_light.om file and put it in this folder:
 >High_Performance_Pose_Estimation/LightweightOpenPose/model/
 
 Then being in High_Performance_Pose_Estimation/LightweightOpenPose/ folder, run the following command:
->python run.py --input video/1.jpg
+```
+python run.py --input video/1.jpg
+```
 
 ## UniPose
 Download the UniPose_MPII.om file and put it in this folder:
 >High_Performance_Pose_Estimation/UniPose/model/
 
 Then being in High_Performance_Pose_Estimation/UniPose/ folder, run the following command:
->python run.py --input video/1.jpg
+```
+python run.py --input video/1.jpg
+```
 
 ## MHFormer
 Download the model_4294.om file and put it in this folder:
@@ -34,4 +38,6 @@ Also, download the pose_hrnet_w48_384x288.om and yolov3.om files and put them in
 >High_Performance_Pose_Estimation/MHFormer/demo/lib/checkpoint/
 
 Then being in High_Performance_Pose_Estimation/MHFormer/ folder, run the following command:
->python demo/vis.py --video 1.jpg
+```
+python demo/vis.py --video 1.jpg
+```
