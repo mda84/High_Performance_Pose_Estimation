@@ -1,1 +1,1 @@
-Please put your .om files here.
+Please put the .om file here.
