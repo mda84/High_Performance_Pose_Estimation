@@ -2,10 +2,17 @@
 
 It's the final project of CMPT-733.
 
-Running the models:
+# OpenPose
+Download the .om file from here, and put it in this address:
 
-OpenPose
+Then being in folder, run the following command:
 
-UniPose
+# UniPose
+Download the .om file from here, and put it in this address:
 
-MHFormer
+Then being in folder, run the following command:
+
+# MHFormer
+Download the .om file from here, and put it in this address:
+
+Then being in folder, run the following command:
