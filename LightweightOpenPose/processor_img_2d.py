@@ -49,5 +49,3 @@ class ModelProcessor:
         preprocessed_img = np.asarray(scaled_img_data, dtype=np.float32) / 255.
         
         return preprocessed_img
-
-
