@@ -70,6 +70,7 @@ def run_2d_to_3d(model_path, keypoints, input_video_path, output_video_dir, outp
     video_output_path = f'{output_video_dir}/output-{input_filename}-old.{output_format}'
 
     model_processor.generate_visualization(keypoints, output, input_video_path, video_output_path, all_frames)
+    model_processor.model.destroy()
     print("Output exported to {}".format(video_output_path))
 
 if __name__ == "__main__":
