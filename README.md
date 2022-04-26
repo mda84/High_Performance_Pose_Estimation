@@ -9,7 +9,7 @@ Download the OpenPose_for_TensorFlow_BatchSize_1.om and video_pose_3d.om files a
 
 Then being in High_Performance_Pose_Estimation/OpenPose/ folder, run the following command:
 ```
-python run.py --input video/1.jpg
+python run.py --input data/1.jpg
 ```
 
 ## Lightweight OpenPose
@@ -18,7 +18,7 @@ Download the OpenPose_light.om and video_pose_3d.om files and put them in this f
 
 Then being in High_Performance_Pose_Estimation/LightweightOpenPose/ folder, run the following command:
 ```
-python run.py --input video/1.jpg
+python run.py --input data/1.jpg
 ```
 
 ## UniPose
@@ -27,7 +27,7 @@ Download the UniPose_MPII.om and video_pose_3d.om files and put them in this fol
 
 Then being in High_Performance_Pose_Estimation/UniPose/ folder, run the following command:
 ```
-python run.py --input video/1.jpg
+python run.py --input data/1.jpg
 ```
 
 ## MHFormer
